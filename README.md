@@ -104,26 +104,29 @@ The application includes user-friendly interfaces, API integrations, and backend
 - Update the connection string in the backend configuration file to match your MongoDB instance.
 
 ## Screenshots
-### Frontend + Backend (Overview)
-![Frontend+BackendOverView](https://github.com/user-attachments/assets/6eb7171b-18eb-4211-8356-a7b4b0349dbd)
 
+### Frontend + Backend (Overview)
+![Frontend + Backend](https://i.imgur.com/MjPJnM5.png)
 
 ### Backend
-![BackendOnly](https://github.com/user-attachments/assets/79dc4c24-f328-4052-8f55-f74be51d7003)
-
+![Backend](https://i.imgur.com/fUkSBKE.png)
 
 ### Backend + MongoDB Compass
-![Backend+Compass](https://github.com/user-attachments/assets/3db46a4f-d012-4138-872f-0238155f0a23)
-
+![Backend + Compass](https://i.imgur.com/5Ech75j.png)
 
 ### API + Frontend
-
-![API+Frontend](https://github.com/user-attachments/assets/ed7bcfe8-b286-4c28-8d15-67b50c1f0a90)
+![API + Frontend](https://i.imgur.com/J9sIFoc.png)
 
 ### Additional Views
-![Register](https://github.com/user-attachments/assets/80101492-3bd8-40c2-9db9-45f8a0c47e84)
-![Login](https://github.com/user-attachments/assets/cc41bddb-d930-436b-82ec-6733eee350a4)
-![Categories](https://github.com/user-attachments/assets/9fd6b85b-d323-41e8-abfb-6a6a470c7631)
+
+**Register Page**  
+![Register](https://i.imgur.com/tfmON3y.png)
+
+**Login Page**  
+![Login](https://i.imgur.com/84Kmhcv.png)
+
+**Categories Page**  
+![Categories](https://i.imgur.com/Fy8gSOw.png)
 
 ## API Documentation
 This backend includes a fully documented API using swagger UI. Once the backend is running, you can access the API documentation at:
