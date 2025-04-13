@@ -3,8 +3,7 @@
 This project is a frontend application built with React, TypeScript, and Vite. It is part of a full-stack CRUD (Create, Read, Update, Delete) application designed to demonstrate modern web development practices and provide a seamless user experience.
 
 
-![CaptureFrontendProductsPage](https://github.com/user-attachments/assets/c321dbe3-a0bd-422f-8f69-13fba59b2622)
-
+![CaptureFrontendProductsPage](https://i.imgur.com/NCmymDa.png)
 
 
 ## Purpose
