@@ -32,7 +32,7 @@ The application includes user-friendly interfaces, API integrations, and backend
 - **Frontend**:
   - React
   - TypeScript
-  - TailwindCSS (or add your preferred CSS framework here)
+  - TailwindCSS 
   
 - **Backend**:
   - ASP.NET Core (C#)
